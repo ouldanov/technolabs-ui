@@ -1,5 +1,8 @@
 {
-  "name": "techconnect-ui",
+  "name": "@bs/techconnect-ui",
+  "publishConfig": {
+    "@bs:registry": "https://gitlab.technolabs.ru:443/api/v4/projects/73/packages/npm/"
+  },
   "version": "1.0.0",
   "description": "Technolabs UI library",
   "scripts": {
