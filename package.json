@@ -1,7 +1,7 @@
 {
-  "name": "@technolabs/techconnect-ui",
+  "name": "@ouldanov/technolabs-ui",
   "publishConfig": {
-    "@technolabs:registry": "https://gitlab.technolabs.ru:443/api/v4/projects/73/packages/npm/"
+    "registry": "https://npm.pkg.github.com/ouldanov"
   },
   "version": "1.0.0",
   "description": "Technolabs UI library",
